@@ -1,4 +1,4 @@
-# SimpleRPG
+# Simple Godot RPG
 This game was made from a [tutorial](https://www.davidepesce.com/godot-tutorials/) series covering the basics of developing a simple 2D top-down RPG with Godot and gdscript. This helped me get started with Godot game development by learning to use sprites, physics, animations, GUIs, sounds and to program the logic of the game with the Godot script language, GDScript.
 
 ### Game features:
